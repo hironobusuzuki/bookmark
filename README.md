@@ -5,7 +5,7 @@
 * javascript
 * coffee script
  - [公式(web実行できる&js変換できる)](http://coffeescript.org/)
- - [js->coffee変換](http://js2.coffee/)
+ - [jsからcoffee変換](http://js2.coffee/)
 ---
 ## server side
 ### ruby
